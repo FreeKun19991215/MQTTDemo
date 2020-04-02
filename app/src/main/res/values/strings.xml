@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">MQTT</string>
+    <string name="broker_address">服务器地址：</string>
+    <string name="ip_example">12.123.123.12</string>
+    <string name="port">端口：</string>
+    <string name="port_example">1883</string>
+    <string name="client_id">客户端ID：</string>
+    <string name="client_id_example">唯一</string>
+    <string name="connect">连接</string>
+    <string name="disconnect">断开连接</string>
+    <string name="tips">tips：1.只支持tcp协议 2.请不要输入中文</string>
+    <string name="user_name">用户名：</string>
+    <string name="password">密码：</string>
+    <string name="connected_broker">连接的服务器：</string>
+    <string name="textView_tips">当前还未连接到服务器</string>
+    <string name="publish">发布</string>
+    <string name="subscribe">订阅</string>
+    <string name="qos_text">Qos：</string>
+    <string name="qos_tips">Qos=2 不常用</string>
+    <string name="subscribe_tips">暂无订阅的主题</string>
+    <string name="sign">-></string>
+    <string name="subscribe_topic_text">收到的消息      tips：消息内容->消息主题</string>
+    <string name="subcribe_sum">订阅的主题数：</string>
+    <string name="cls">清空消息</string>
+    <string name="topic">订阅的主题：</string>
+</resources>
